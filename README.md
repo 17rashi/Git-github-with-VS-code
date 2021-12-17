@@ -1,6 +1,6 @@
-## If this is helpful giva it a star. :star:
+## If this is helpful give it a star. :star:
 
-# Git/Github-with-VS-code
+# Git/Github-with-VS-code :sunglasses:
 
 ## INSTALLATION
  
