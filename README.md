@@ -20,7 +20,7 @@ then download git for windows.
 To use Github in vs code you have to login from vs code and you can install the extension [Git Pull requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
 
 -> Now after logging in, you can clone the repository you made.
-#### To initialize a repository create a directory first. (NOTE: Do not use your home directory to install or initialize git, it will mess up your computer).
+#### To initialize a repository create a directory/folder first. (NOTE: Do not use your home directory to install or initialize git, it will mess up your computer).
 
 1. For initializing you need to be on that folder where you want to initialize it. 
 
