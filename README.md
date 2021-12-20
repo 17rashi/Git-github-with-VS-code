@@ -28,11 +28,12 @@ To use Github in vs code you have to login from vs code and you can install the 
 #### -------- If you want to use Github directly from VS CODE ---------
 
 - Make a new folder on VS code (you will see there is nothing in it).
+- Type [git init] to intialize the repository. 
 - Open the Terminal and make a file and if you want to use GUI 
     - **STEPS
 :** Type (a) open .  (b) touch first.txt 
 It will create your file.
-- To commit your file you can directly click on the source control icon or you can type git commit.
+- To commit your file you can directly click on the source control icon or you can type [git commit].
 - You can now push it in main by writing [git push origin main]
 
 ***Till now we have learned how to create a file and initialize a repository***
