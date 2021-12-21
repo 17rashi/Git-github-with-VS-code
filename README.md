@@ -6,26 +6,35 @@
  
 ### STEP 1: Check whether the Git is installed on your laptop/pc or not
 
-#### To check the installation open command prompt and type [ git --version].
+#### To check the installation --open "command prompt" and type [ git --version].
 
-if the version is present 
-   then proceed with step-2
+If the version is present 
+
+   - then proceed with step-2
+   
 else
-   Search git-scm.com/downloads on google or click on the [link](https://git-scm.com/downloads)
+
+  - Search git-scm.com/downloads on google or click on the [link](https://git-scm.com/downloads)
 
 then download git for windows.
 
-## INITIALIZATION OF REPOSITORY
-### STEP 2: Make a Github account and Make a repository on your GitHub account. 
-To use Github in vs code you have to login from vs code and you can install the extension [Git Pull requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
+### INITIALIZATION OF REPOSITORY
+#### STEP 2: Make a Github account and Make a repository on your GitHub account.
+To use Github in vs code you have to login from vs code and install the extension [Git Pull requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
 
--> Now after logging in, you can clone the repository you made.
+Download [github desktop](https://desktop.github.com/) for windows 
+
+Login into GitHub desktop and clone the repository you made and then click on **open with VS code.** 
+- Complete the steps of authorization.
+
+-> Now after logging in, you can clone the repository you made directly in vs code.
+
 #### To initialize a repository create a directory/folder first. (NOTE: Do not use your home directory to install or initialize git, it will mess up your computer).
 
 1. For initializing you need to be on that folder where you want to initialize it. 
 
 
-#### -------- If you want to use Github directly from VS CODE ---------
+### -------- If you want to use Github directly from VS CODE ---------
 
 - Make a new folder on VS code (you will see there is nothing in it).
 - Type [git init] to intialize the repository. 
@@ -53,7 +62,7 @@ If you want to remove a complete folder & dis-commit it.
 
 ### To initialize git with command line
  1. First check the version of git software installed type **[git --version]**
- 2. To initialize type **[git inti]**, you will see an empty repository will be intialized.
+ 2. To initialize type **[git inti]**, you will see an empty repository will be initialized.
 
 #### NOTE: While creating any new file you will see *U* at the end -- it means the file is "untracked" and has not been pushed in your repository yet. 
 
