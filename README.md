@@ -29,6 +29,10 @@ Login into GitHub desktop and clone the repository you made and then click on **
 
 -> Now after logging in, you can clone the repository you made directly in vs code.
 
+-> If you have opened the cloned repository make a folder and files to check whether you are getting the untracked option or not. If it is not there then your folder is not initialized. so first initialized it.
+
+-> If you are getting the untracked option commit it and type a message according to your commit and then push it to origin main by writing [git push origin main] in the terminal.
+
 #### To initialize a repository create a directory/folder first. (NOTE: Do not use your home directory to install or initialize git, it will mess up your computer).
 
 1. For initializing you need to be on that folder where you want to initialize it. 
@@ -37,7 +41,7 @@ Login into GitHub desktop and clone the repository you made and then click on **
 ### -------- If you want to use Github directly from VS CODE ---------
 
 - Make a new folder on VS code (you will see there is nothing in it).
-- Type [git init] to intialize the repository. 
+- Type [git init] to initialize the repository. 
 - Open the Terminal and make a file and if you want to use GUI 
     - **STEPS
 :** Type (a) open .  (b) touch first.txt 
@@ -53,7 +57,7 @@ We have done a lot of operations till now so let's check the status.
 **Type: git status** in termial
 
 
-#### SOME IMPORTANT POINTS 
+## SOME IMPORTANT POINTS 
 
 If you want to remove a complete folder & dis-commit it. 
 
