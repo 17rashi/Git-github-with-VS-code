@@ -67,7 +67,7 @@ If you want to remove a complete folder & dis-commit it.
 
 ### To initialize git with command line
  1. First check the version of git software installed type **[git --version]**
- 2. To initialize type **[git inti]**, you will see an empty repository will be initialized.
+ 2. To initialize type **[git init]**, you will see an empty repository will be initialized.
 
 #### NOTE: While creating any new file you will see *U* at the end -- it means the file is "untracked" and has not been pushed in your repository yet. 
 
